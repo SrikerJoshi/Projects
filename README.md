@@ -23,7 +23,7 @@ Welcome to my repository! Below is a list of all my projects and a brief descrip
 
 ---
 
-## 📂 [AI-Based LLM chatbots](.SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
+## 📂 [AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts/Newtons%20method) <a name="AI-based LLM Chatbots"></a> 
 **Description:**  
 This project attempts to build AI-based chatbots to use custom data as context for various LLMs for building your chatbot, Here I have shown examples of building chatbots that help users know more about my resume.
 

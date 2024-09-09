@@ -4,22 +4,22 @@ Welcome to my repository! Below is a list of all my projects and a brief descrip
   
    ## Table of Contents
 
-1. [AI-Based LLM Chatbots]
-    - [Google AI Chatbot]
-    - [OpenAI Chatbot Langchain]
-    - [Ollama LLM Chatbot]
-    - [OpenAI Chatbot (No Langchain)]
+1. AI-Based LLM Chatbots
+   - Google AI Chatbot
+   - OpenAI Chatbot Langchain
+   - Ollama LLM Chatbot
+   - OpenAI Chatbot (No Langchain)
 
-2. [Deep Learning Projects]
-    - [2-Layer Neural Network for CIFAR-10 Classification]
-    - [CNN for CIFAR-10 Dataset]
-    - [Custom CNN for Blood Cells Classification Report]
-    - [KNN Model]
-    - [Linear Classifier Using PyTorch for CIFAR-10 Dataset]
+2. Deep Learning Projects
+   - 2-Layer Neural Network for CIFAR-10 Classification
+   - CNN for CIFAR-10 Dataset
+   - Custom CNN for Blood Cells Classification Report
+   - KNN Model
+   - Linear Classifier Using PyTorch for CIFAR-10 Dataset
 
-3. [Machine Learning Concepts]
-    - [Machine Learning Models]
-    - [Newton's Method]
+3. Machine Learning Concepts
+   - Machine Learning Models
+   - Newton's Method
 
 ---
 

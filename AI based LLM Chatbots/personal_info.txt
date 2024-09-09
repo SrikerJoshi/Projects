@@ -1,0 +1,48 @@
+Name: sriker joshi
+Favorite Color: Blue
+Hobbies: Reading, learning, watching youtube
+Education : University of alabama at Birmingham
+Gpa : 3.7/4.0
+Degree: master's in data science.
+Intrests: Helping people with stuff.
+project 1:  Atom-Efficient tracking, monitoring, and orchestration of cloud resources
+            Developed a mock web model for a cloud-based architecture where Principal Component Analysis approach was used to find anomalies in the cloud resources and the backend works by VM Clustering.
+project 2 : An Improvised Mobile Search Engine
+            Implemented a cloud-based search engine that uses a spatial inverted index to identify the node, in this case, a restaurant when we give keywords like a dish name or location in the search bar and the search engine returns the nearest matching locations which serve the dish. It is based on NNS (Nearest Neighbor Search)
+project 3 : FPS game based on Our college
+            Designed and created using I-clone-8 to design the game environment and used Modeling software like blender and crazy talk to model characters and used Maximo for auto rigging and built the prototype of the game on the UNITY platform.
+favorite sports: football, cricket, badminton.
+favorite games: chess, vollyball etc.
+height: 5' 11" inches
+bachelors degree: CMR INSTITUTE OF TECHNOLOGY Hyderabad, India (August’14 – May’18)
+                  Bachelor of Technology in Computer Science and Engineering (CGPA: 3.4/4.0) 
+Master's Degree : UNIVERSITY OF ALABAMA AT BIRMINGHAM Birmingham, Alabama (August ’22 – May’24)
+                  Masters in data science (CGPA: 3.7/4.0) 
+Programming Languages : C, Python, JAVA, C#, SQL, JavaScript
+Web development : HTML, CSS, WordPress, PHP
+Databases : MYSQL, Oracle, PL/SQL, PostgreSQL, MongoDB
+Others : NumPy, pandas, Tableau, Microsoft Office, scikit-learn, GIT
+jobs : Data Analyst, Test Analyst
+
+Job role for data analyst : worked in IBM Hyderabad, India  as a Data analyst from (May’20 – May’22).
+                            • Optimized data-driven decision-making through effective data analysis.
+                            • Enhanced database performance and consistency for Java applications.
+                            • Enabled actionable insights through advanced data visualization.
+                            • Enhanced data integrity, led cross-regional data synchronization, ensuring accuracy.
+                            • Streamlined data processing, cutting report generation time by 30%.
+                            • Refined data validation procedures, minimizing errors by 25%.
+                            • Developed a custom analytics dashboard, improving stakeholder report accessibility.
+                            • Conducted thorough data audits, ensuring 99% data accuracy across all reports.
+                            
+job role for test analyst : Test analyst (Mar’19 –May’20)
+                            • Enhanced data integrity, led cross-regional data synchronization, ensuring accuracy.
+                            • Streamlined data processing, cutting report generation time by 30%.
+                            • Refined data validation procedures, minimizing errors by 25%.
+                            • Developed a custom analytics dashboard, improving stakeholder report accessibility.
+                            • Conducted thorough data audits, ensuring 99% data accuracy across all reports.  
+
+professional summary:   Proficient in advanced data analytics, transformation, and visualization, with 3 years of expertise in software development and statistical analysis, skilled at various technologies such as TensorFlow, Scikit-learn, Pandas, NumPy and Tableau.
+                        • Demonstrating a proven track record of meticulously analyzing data, crafting insightful reports, and implementing anomaly detection strategies to discern trends and optimize user satisfaction and operational efficiency.
+                        • Managed 180+ change orders with a focus on improving user satisfaction and operational efficiency with a solid foundation in Agile, Iterative, and Test-Driven Development methodologies, consistently delivering high-quality results and reducing delivery time by 30% and achieved 0 production defects, showcasing dedication to quality assurance.
+                        • Adeptness in fostering team confidence through effective communication, coupled with a proactive approach to problem-solving, making an asset in diverse global team settings.
+                        • Continuously seeking opportunities for learning and growth, particularly in emerging technologies such as Neural Networks, Supervised Algorithms, Reinforcement Learning, LLM, Computer Vision, Hypothesis Testing, and Data Visualization.

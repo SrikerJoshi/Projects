@@ -4,10 +4,10 @@ Welcome to my repository! Below is a list of all my projects and a brief descrip
 
 ## Table of Contents
 1. [AI-Based LLM chatbots](#AI-Based LLM chatbots)
-   1.1 [Google_AI_chatbot](#Google_AI_chatbot)
-   1.2 [Open_ai_chatbot_langchain](#Open_ai_chatbot_langchain)
-   1.3 [ollama_LLM_chatbot](#ollama_LLM_chatbot)
-   1.4 [open-ai-chatbot-no-langchain.ipynb](#open-ai-chatbot-no-langchain)
+   - 1.1 [Google_AI_chatbot](#Google_AI_chatbot)
+   - 1.2 [Open_ai_chatbot_langchain](#Open_ai_chatbot_langchain)
+   - 1.3 [ollama_LLM_chatbot](#ollama_LLM_chatbot)
+   - 1.4 [open-ai-chatbot-no-langchain.ipynb](#open-ai-chatbot-no-langchain)
    
 2. [Deep learning projects](#Deep learning projects)
    2.1 [2 layer neural network for CIFAR 10 classification](#2 layer neural network for CIFAR 10 classification)

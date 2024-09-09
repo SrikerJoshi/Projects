@@ -10,15 +10,15 @@ Welcome to my repository! Below is a list of all my projects and a brief descrip
    - 1.4 [open-ai-chatbot-no-langchain.ipynb](#open-ai-chatbot-no-langchain)
    
 2. [Deep learning projects](#Deep learning projects)
-   2.1 [2 layer neural network for CIFAR 10 classification](#2 layer neural network for CIFAR 10 classification)
-   2.2 [CNN for CIFAR 10 dataset](#CNN for CIFAR 10 dataset)
-   2.3 [CUSTOM CNN FOR BLOOD CELLS CLASSIFICATION Report](#CUSTOM CNN FOR BLOOD CELLS CLASSIFICATION Report)
-   2.4 [KNN model](#KNN model)
-   2.5 [linear classifier using pytorch for CIFAR10 dataset](#linear classifier using pytorch for CIFAR10 dataset)
+   - 2.1 [2 layer neural network for CIFAR 10 classification](#2 layer neural network for CIFAR 10 classification)
+   - 2.2 [CNN for CIFAR 10 dataset](#CNN for CIFAR 10 dataset)
+   - 2.3 [CUSTOM CNN FOR BLOOD CELLS CLASSIFICATION Report](#CUSTOM CNN FOR BLOOD CELLS CLASSIFICATION Report)
+   - 2.4 [KNN model](#KNN model)
+   - 2.5 [linear classifier using pytorch for CIFAR10 dataset](#linear classifier using pytorch for CIFAR10 dataset)
    
 3. [Machine learning concepts](#Machine learning concepts)
-   3.1 [Machine learning models](#Machine learning models)
-   3.2 [Newtons method](#Newtons method)
+   - 3.1 [Machine learning models](#Machine learning models)
+   - 3.2 [Newtons method](#Newtons method)
 
 ---
 

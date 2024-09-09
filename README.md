@@ -31,7 +31,7 @@ This project attempts to build AI-based chatbots to use custom data as context f
 - Feature 1: It is straightforward to understand.
 - Feature 2: You can run these on your local machine or kaggle.
 - Feature 3: I do not have API keys for all the LLM services but I have included how you can make the Chatbot run on your local system or on Kaggle without much hassle.
-- Feature 4: These models are just for simply trying out building your custom chatbots, These are command line and do not have a web interface but they can be easily built using Streamlit which is shown in the implementation of one of the chatbots.
+- Feature 4: These models are just for simply trying out building your custom chatbots, These are command line bots and do not have an interface but they can be easily built using Streamlit which is shown in the implementation of one of the chatbots.
 
 **LLMs Used:**  
 - Google Gemini  
@@ -63,43 +63,22 @@ These projects attempt to showcase various Deep learning concepts to do classifi
 
 ---
 
-## 📂 [Project Name 3](./project-name-3-folder) <a name="project-name-3"></a>
+## 📂 [Machine learning concepts](.SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts) <a name="Machine learning concepts"></a> 
 **Description:**  
-This project is designed to perform [specific tasks] efficiently.
+These projects attempt to showcase various Machine learning concepts and models to help learn the basics of machine learning and these were taught to me at my university, this also has a concept called Newton's Method (or Newton-Raphson method) in machine learning which is useful to minimize or maximize the loss function while training a machine learning model. You can see the implementation of Newton's Method for Wisconsin breast cancer data which leads to the implementation of a logistic regression classifier that closely matches the scikit-learn model's performance.
 
 **Main Features:**
-- Feature 1: Explanation of what the feature does.
-- Feature 2: Brief description.
+- Feature 1: It is straightforward to understand and detailed reports explain what happened while I was working on each model.
+- Feature 2: You can run these on your local machine and I have included the HTML pages to be able to see how the code performed.
+- Feature 3: These are just touching the surface of machine learning and you can find so many more projects like these on Kaggle.
 
-**Technologies Used:**  
-- Technology 1  
-- Technology 2  
+**Models Used:**  
+- liner classifier 
+- Newton's method 
+- Scikit learn
 
-[📁 View Project Files](./project-name-3-folder)
-
+[📁 Machine learning concepts](.SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts)
 ---
 
-## 📂 [Project Name 4](./project-name-4-folder) <a name="project-name-4"></a>
-**Description:**  
-Provide a clear and concise overview of this project, explaining its core functionality and target audience.
-
-**Main Features:**
-- Feature 1: Short description.
-- Feature 2: Explanation.
-
-**Technologies Used:**  
-- Technology 1  
-- Technology 2  
-
-[📁 View Project Files](./project-name-4-folder)
-
----
-
-## 🛠️ How to Use
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
 

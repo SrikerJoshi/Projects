@@ -51,6 +51,9 @@
 3. Machine Learning Concepts
    - Machine Learning Models
    - Newton's Method
+     
+4. An improvised mobile search engine
+   
 
 ---
 
@@ -109,6 +112,14 @@ These projects attempt to showcase various Machine learning concepts and models 
 - Scikit learn
 
 [📁 Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts)
+
+## 📂 [An improvised mobile search engine](https://github.com/SrikerJoshi/Projects/tree/main/Improvised%20mobile%20search%20engine) <a name="An improvised mobile search engine"></a> 
+**Description:**  
+This project attempts to build a spatial inverted index-based search engine for identifying nearby locations serving specific dishes based on keywords.
+**Main Features:**
+- Feature 1: It is a full project (end-end)  with a detailed project report.
+- Feature 2: You can run these on your local machine or kaggle.
+
 
 
 

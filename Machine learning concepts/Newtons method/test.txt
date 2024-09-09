@@ -1,0 +1,2 @@
+Mine implement: the average accuracy over 10 trials is  0.9697841726618703
+Scikit Learn: the average accuracy over 10 trials is  0.9697841726618703

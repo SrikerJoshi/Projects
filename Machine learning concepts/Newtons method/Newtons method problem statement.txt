@@ -1,0 +1,7 @@
+Problem statement :- 
+This project asks you to implement a logistic regression classifier, and apply it on a real
+data set.
+We use the Breast Cancer Wisconsin dataset from UCI machine learning repository:
+http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+Data File: breast-cancer-wisconsin.data (class: 2 for benign, 4 for malignant)
+Data Metafile: breast-cancer-wisconsin.names

@@ -1,7 +1,7 @@
 # 🚀🖥️👩‍💻💬🤖 My Awesome Projects
 
-### : Data enthusiast: About Me :
-- 👋Hello, Welcome to my profile, my name is sriker joshi and I am very enthusiastic about various data science concepts and have a robust Data Science, Machine Learning, and Computer Vision background..
+###: A Data enthusiast: About Me :
+- 👋Hello, Welcome to my profile, my name is Sriker Joshi and I am very enthusiastic about various data science concepts and have a robust Data Science, Machine Learning, and Computer Vision background...
 - 👩‍🎓I hold a Masters in Data Science degree from the University of Alabama at Birmingham and a Bachelor's in Computer Science from CMRIT.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sriker-joshi/)
 

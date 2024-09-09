@@ -1,0 +1,7 @@
+google chatbot - https://www.kaggle.com/code/srikerjoshi/google-ai-chatbot
+
+Ollama chatbot - https://www.kaggle.com/code/srikerjoshi/ollama-chatbot
+
+Open ai chatbot using langchain - https://www.kaggle.com/code/srikerjoshi/open-ai-chatbot-langchain
+
+Open ai chatbot not using langchain- https://www.kaggle.com/code/srikerjoshi/open-ai-chatbot-no-langchain

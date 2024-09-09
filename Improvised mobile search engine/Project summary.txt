@@ -1,0 +1,1 @@
+– Implemented a spatial inverted index-based search engine for identifying nearby locations serving specific dishes based on keywords.

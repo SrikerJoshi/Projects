@@ -25,15 +25,15 @@ Welcome to my repository! Below is a list of all my projects and a brief descrip
 
 ## 📂 [AI-Based LLM chatbots](.SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
 **Description:**  
-This project attempts to build AI-based chatbots to use custom data as context for a LLM chatbot, which helps users know more about my resume.
+This project attempts to build AI-based chatbots to use custom data as context for various LLMs for building your chatbot, Here I have shown examples of building chatbots that help users know more about my resume.
 
 **Main Features:**
-- Feature 1: it is straightforward to understand.
+- Feature 1: It is straightforward to understand.
 - Feature 2: You can run these on your local machine or kaggle.
 - Feature 3: I do not have API keys for all the LLM services but I have included how you can make the Chatbot run on your local system or on Kaggle without much hassle.
 - Feature 4: These models are just for simply trying out building your custom chatbots, These are command line and do not have a web interface but they can be easily built using Streamlit which is shown in the implementation of one of the chatbots.
 
-**Technologies Used:**  
+**LLMs Used:**  
 - Google Gemini  
 - Open AI  
 - OLLAMA
@@ -43,21 +43,23 @@ This project attempts to build AI-based chatbots to use custom data as context f
 
 ---
 
-## 📂 [AI-Based LLM chatbots](./project-name-2-folder) <a name="project-name-2"></a>
+## 📂 [Deep learning projects](.SrikerJoshi/Projects/tree/main/Deep%20learning%20projects) <a name="Deep learning projects"></a> 
 **Description:**  
-Explain the functionality of this project, what problem it solves, and how it can be used.
+These projects attempt to showcase various Deep learning concepts to do classification tasks on the CIFAR-10 dataset and I have shown how various models are better at doing various tasks when it comes to models when performing certain tasks, here I have considered classification as my primary task and used various methods to optimize the model to train better on the dataset to be able to classify the CIFAR-10 dataset. You can find what are the optimization techniques I have used along with detailed reports encompassing my approach. There is also a Custom CNN I have built to train the model to do Blood cell classification as well.
 
 **Main Features:**
-- Feature 1: Brief description.
-- Feature 2: Brief description.
-- Feature 3: Brief description.
+- Feature 1: It is straightforward to understand and detailed reports explain what happened while I was working on each model.
+- Feature 2: You can run these on your local machine or Kaggle, I have included the HTML pages to be able to see how the code performed.
+- Feature 3: These are just touching the surface of deep learning and you can find so many more projects like these on kaggle.
 
-**Technologies Used:**  
-- Technology 1  
-- Technology 2  
-- Technology 3  
+**Models Used:**  
+- liner classifier 
+- 2 - layer neural network  
+- CNN
+- KNN
+- Custom CNN
 
-[📁 View Project Files](./project-name-2-folder)
+[📁 Deep learning projects](.SrikerJoshi/Projects/tree/main/Deep%20learning%20projects)
 
 ---
 

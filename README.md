@@ -1,34 +1,48 @@
-# 🚀 My Awesome Projects
+# 🚀🖥️👩‍💻💬🤖 My Awesome Projects
 
 Welcome to my repository! Below is a list of all my projects and a brief description of their functionality. Click the project names to navigate directly to the project directories.
 
 ## Table of Contents
-1. [Project Name 1](#project-name-1)
-2. [Project Name 2](#project-name-2)
-3. [Project Name 3](#project-name-3)
-4. [Project Name 4](#project-name-4)
+1. [AI-Based LLM chatbots](#AI-Based LLM chatbots)
+   1.1 [Google_AI_chatbot](#Google_AI_chatbot)
+   1.2 [Open_ai_chatbot_langchain](#Open_ai_chatbot_langchain)
+   1.3 [ollama_LLM_chatbot](#ollama_LLM_chatbot)
+   1.4 [open-ai-chatbot-no-langchain.ipynb](#open-ai-chatbot-no-langchain)
+   
+2. [Deep learning projects](#Deep learning projects)
+   2.1 [2 layer neural network for CIFAR 10 classification](#2 layer neural network for CIFAR 10 classification)
+   2.2 [CNN for CIFAR 10 dataset](#CNN for CIFAR 10 dataset)
+   2.3 [CUSTOM CNN FOR BLOOD CELLS CLASSIFICATION Report](#CUSTOM CNN FOR BLOOD CELLS CLASSIFICATION Report)
+   2.4 [KNN model](#KNN model)
+   2.5 [linear classifier using pytorch for CIFAR10 dataset](#linear classifier using pytorch for CIFAR10 dataset)
+   
+3. [Machine learning concepts](#Machine learning concepts)
+   3.1 [Machine learning models](#Machine learning models)
+   3.2 [Newtons method](#Newtons method)
 
 ---
 
-## 📂 [Project Name 1](./project-name-1-folder) <a name="project-name-1"></a>
+## 📂 [AI-Based LLM chatbots](.SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
 **Description:**  
-A brief description of what the project does, its purpose, and its functionality. Include any important technical details.
+This project attempts to build AI-based chatbots to use custom data as context for a LLM chatbot, which helps users know more about my resume.
 
 **Main Features:**
-- Feature 1: Brief description of the feature.
-- Feature 2: Brief description of the feature.
-- Feature 3: Brief description of the feature.
+- Feature 1: it is straightforward to understand.
+- Feature 2: You can run these on your local machine or kaggle.
+- Feature 3: I do not have API keys for all the LLM services but I have included how you can make the Chatbot run on your local system or on Kaggle without much hassle.
+- Feature 4: These models are just for simply trying out building your custom chatbots, These are command line and do not have a web interface but they can be easily built using Streamlit which is shown in the implementation of one of the chatbots.
 
 **Technologies Used:**  
-- Technology 1  
-- Technology 2  
-- Technology 3  
+- Google Gemini  
+- Open AI  
+- OLLAMA
+- Streamlit
 
-[📁 View Project Files](./project-name-1-folder)
+[📁 AI-Based LLM chatbots](.SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots)
 
 ---
 
-## 📂 [Project Name 2](./project-name-2-folder) <a name="project-name-2"></a>
+## 📂 [AI-Based LLM chatbots](./project-name-2-folder) <a name="project-name-2"></a>
 **Description:**  
 Explain the functionality of this project, what problem it solves, and how it can be used.
 

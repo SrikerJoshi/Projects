@@ -4,26 +4,26 @@ Welcome to my repository! Below is a list of all my projects and a brief descrip
   
    ## Table of Contents
 
-1. [AI-Based LLM Chatbots](#[ai-based-llm-chatbots](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts/Newtons%20method))
-    - [Google AI Chatbot](#google-ai-chatbot)
-    - [OpenAI Chatbot Langchain](#openai-chatbot-langchain)
-    - [Ollama LLM Chatbot](#ollama-llm-chatbot)
-    - [OpenAI Chatbot (No Langchain)](#openai-chatbot-no-langchain)
+1. [AI-Based LLM Chatbots]
+    - [Google AI Chatbot]
+    - [OpenAI Chatbot Langchain]
+    - [Ollama LLM Chatbot]
+    - [OpenAI Chatbot (No Langchain)]
 
-2. [Deep Learning Projects](#deep-learning-projects)
-    - [2-Layer Neural Network for CIFAR-10 Classification](#2-layer-neural-network-for-cifar-10-classification)
-    - [CNN for CIFAR-10 Dataset](#cnn-for-cifar-10-dataset)
-    - [Custom CNN for Blood Cells Classification Report](#custom-cnn-for-blood-cells-classification-report)
-    - [KNN Model](#knn-model)
-    - [Linear Classifier Using PyTorch for CIFAR-10 Dataset](#linear-classifier-using-pytorch-for-cifar-10-dataset)
+2. [Deep Learning Projects]
+    - [2-Layer Neural Network for CIFAR-10 Classification]
+    - [CNN for CIFAR-10 Dataset]
+    - [Custom CNN for Blood Cells Classification Report]
+    - [KNN Model]
+    - [Linear Classifier Using PyTorch for CIFAR-10 Dataset]
 
-3. [Machine Learning Concepts](#machine-learning-concepts)
-    - [Machine Learning Models](#machine-learning-models)
-    - [Newton's Method](#newtons-method)
+3. [Machine Learning Concepts]
+    - [Machine Learning Models]
+    - [Newton's Method]
 
 ---
 
-## 📂 [AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts/Newtons%20method) <a name="AI-based LLM Chatbots"></a> 
+## 📂 [AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
 **Description:**  
 This project attempts to build AI-based chatbots to use custom data as context for various LLMs for building your chatbot, Here I have shown examples of building chatbots that help users know more about my resume.
 
@@ -39,11 +39,11 @@ This project attempts to build AI-based chatbots to use custom data as context f
 - OLLAMA
 - Streamlit
 
-[📁 AI-Based LLM chatbots](.SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots)
+[📁 AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots)
 
 ---
 
-## 📂 [Deep learning projects](.SrikerJoshi/Projects/tree/main/Deep%20learning%20projects) <a name="Deep learning projects"></a> 
+## 📂 [Deep learning projects](https://github.com/SrikerJoshi/Projects/tree/main/Deep%20learning%20projects) <a name="Deep learning projects"></a> 
 **Description:**  
 These projects attempt to showcase various Deep learning concepts to do classification tasks on the CIFAR-10 dataset and I have shown how various models are better at doing various tasks when it comes to models when performing certain tasks, here I have considered classification as my primary task and used various methods to optimize the model to train better on the dataset to be able to classify the CIFAR-10 dataset. You can find what are the optimization techniques I have used along with detailed reports encompassing my approach. There is also a Custom CNN I have built to train the model to do Blood cell classification as well.
 
@@ -59,11 +59,11 @@ These projects attempt to showcase various Deep learning concepts to do classifi
 - KNN
 - Custom CNN
 
-[📁 Deep learning projects](.SrikerJoshi/Projects/tree/main/Deep%20learning%20projects)
+[📁 Deep learning projects](https://github.com/SrikerJoshi/Projects/tree/main/Deep%20learning%20projects)
 
 ---
 
-## 📂 [Machine learning concepts](.SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts) <a name="Machine learning concepts"></a> 
+## 📂 [Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts) <a name="Machine learning concepts"></a> 
 **Description:**  
 These projects attempt to showcase various Machine learning concepts and models to help learn the basics of machine learning and these were taught to me at my university, this also has a concept called Newton's Method (or Newton-Raphson method) in machine learning which is useful to minimize or maximize the loss function while training a machine learning model. You can see the implementation of Newton's Method for Wisconsin breast cancer data which leads to the implementation of a logistic regression classifier that closely matches the scikit-learn model's performance.
 
@@ -77,7 +77,7 @@ These projects attempt to showcase various Machine learning concepts and models 
 - Newton's method 
 - Scikit learn
 
-[📁 Machine learning concepts](.SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts)
+[📁 Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts)
 ---
 
 

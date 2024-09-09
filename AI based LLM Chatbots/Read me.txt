@@ -1,0 +1,5 @@
+Personal info. txt file has all the personal info for my resume I wish for the LLM to use for context.
+so place that in the code folder for running the chatbot.
+
+I have provided the kaggle notbooks for your reference in the project links in kaggle.txt file 
+where you can see the code and its output.

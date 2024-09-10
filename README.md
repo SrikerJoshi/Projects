@@ -62,7 +62,7 @@
 
 - Want to chat with my chatbot? [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
 
-**Description: **
+## **Description:**
 This project attempts to build AI-based chatbots to use custom data as context for various LLMs for building your chatbot, Here I have shown examples of building chatbots that help users know more about my resume.
 
 **Main Features:**

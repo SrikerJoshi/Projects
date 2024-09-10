@@ -58,7 +58,7 @@
 
 ---
 
-## 📂 [AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
+# 📂 [AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
 
 - Want to chat with my chatbot? [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
 
@@ -81,7 +81,7 @@ This project attempts to build AI-based chatbots to use custom data as context f
 
 ---
 
-## 📂 [Deep learning projects](https://github.com/SrikerJoshi/Projects/tree/main/Deep%20learning%20projects) <a name="Deep learning projects"></a> 
+# 📂 [Deep learning projects](https://github.com/SrikerJoshi/Projects/tree/main/Deep%20learning%20projects) <a name="Deep learning projects"></a> 
 ## **Description:**  
 These projects attempt to showcase various Deep learning concepts to do classification tasks on the CIFAR-10 dataset and I have shown how various models are better at doing various tasks when it comes to models when performing certain tasks, here I have considered classification as my primary task and used various methods to optimize the model to train better on the dataset to be able to classify the CIFAR-10 dataset. You can find what are the optimization techniques I have used along with detailed reports encompassing my approach. There is also a Custom CNN I have built to train the model to do Blood cell classification as well.
 
@@ -101,7 +101,7 @@ These projects attempt to showcase various Deep learning concepts to do classifi
 
 ---
 
-## 📂 [Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts) <a name="Machine learning concepts"></a> 
+# 📂 [Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts) <a name="Machine learning concepts"></a> 
 ## **Description:**  
 These projects attempt to showcase various Machine learning concepts and models to help learn the basics of machine learning and these were taught to me at my university, this also has a concept called Newton's Method (or Newton-Raphson method) in machine learning which is useful to minimize or maximize the loss function while training a machine learning model. You can see the implementation of Newton's Method for Wisconsin breast cancer data which leads to the implementation of a logistic regression classifier that closely matches the scikit-learn model's performance.
 
@@ -117,8 +117,8 @@ These projects attempt to showcase various Machine learning concepts and models 
 
 [📁 Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts)
 
-## 📂 [An improvised mobile search engine](https://github.com/SrikerJoshi/Projects/tree/main/Improvised%20mobile%20search%20engine) <a name="An improvised mobile search engine"></a> 
-**Description:**  
+# 📂 [An improvised mobile search engine](https://github.com/SrikerJoshi/Projects/tree/main/Improvised%20mobile%20search%20engine) <a name="An improvised mobile search engine"></a> 
+## **Description:**  
 This project attempts to build a spatial inverted index-based search engine for identifying nearby locations serving specific dishes based on keywords.
 
 **Main Features:**

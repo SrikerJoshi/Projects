@@ -4,7 +4,7 @@
 - 👋 Hi there! Welcome to my profile. I’m Sriker Joshi, a passionate data enthusiast with growing expertise in Data Science, Machine Learning, and Computer Vision.
 - 🎓 I hold a Master’s degree in Data Science from the University of Alabama at Birmingham and a Bachelor’s degree in Computer Science from CMRIT.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sriker-joshi/)
-- Want to chat with my chatbot? [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://your-chatbot-url.streamlit.app)
+## **if you Want to chat with my chatbot? [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://your-chatbot-url.streamlit.app)**
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -59,7 +59,9 @@
 ---
 
 ## 📂 [AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots) <a name="AI-based LLM Chatbots"></a> 
-## **if you Want to chat with my chatbot? [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://your-chatbot-url.streamlit.app)**
+
+- Want to chat with my chatbot? [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://your-chatbot-url.streamlit.app)
+
 **Description: **
 This project attempts to build AI-based chatbots to use custom data as context for various LLMs for building your chatbot, Here I have shown examples of building chatbots that help users know more about my resume.
 

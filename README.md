@@ -82,7 +82,7 @@ This project attempts to build AI-based chatbots to use custom data as context f
 ---
 
 ## 📂 [Deep learning projects](https://github.com/SrikerJoshi/Projects/tree/main/Deep%20learning%20projects) <a name="Deep learning projects"></a> 
-**Description:**  
+## **Description:**  
 These projects attempt to showcase various Deep learning concepts to do classification tasks on the CIFAR-10 dataset and I have shown how various models are better at doing various tasks when it comes to models when performing certain tasks, here I have considered classification as my primary task and used various methods to optimize the model to train better on the dataset to be able to classify the CIFAR-10 dataset. You can find what are the optimization techniques I have used along with detailed reports encompassing my approach. There is also a Custom CNN I have built to train the model to do Blood cell classification as well.
 
 **Main Features:**
@@ -102,7 +102,7 @@ These projects attempt to showcase various Deep learning concepts to do classifi
 ---
 
 ## 📂 [Machine learning concepts](https://github.com/SrikerJoshi/Projects/tree/main/Machine%20learning%20concepts) <a name="Machine learning concepts"></a> 
-**Description:**  
+## **Description:**  
 These projects attempt to showcase various Machine learning concepts and models to help learn the basics of machine learning and these were taught to me at my university, this also has a concept called Newton's Method (or Newton-Raphson method) in machine learning which is useful to minimize or maximize the loss function while training a machine learning model. You can see the implementation of Newton's Method for Wisconsin breast cancer data which leads to the implementation of a logistic regression classifier that closely matches the scikit-learn model's performance.
 
 **Main Features:**

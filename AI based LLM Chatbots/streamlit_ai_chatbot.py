@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as ai
 
 # API key configuration
-Api_key = "AIzaSyAvtNbQq7RRrbBXjvXPSj-NxLBVM39Aftc"
+Api_key = "Your api key"
 
 # Load personal information from file
 def load_personal_info(filename):

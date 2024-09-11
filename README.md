@@ -5,6 +5,7 @@
 - 🎓 I hold a Master’s degree in Data Science from the University of Alabama at Birmingham and a Bachelor’s degree in Computer Science from CMRIT.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sriker-joshi/)
 - ## Want to chat with my chatbot? Click the logo [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
+- I have included the code for this particular chatbot I mentioned above right here([📁 Streamlit chatbot_code](https://github.com/SrikerJoshi/Projects/blob/main/AI%20based%20LLM%20Chatbots/streamlit_ai_chatbot.py)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

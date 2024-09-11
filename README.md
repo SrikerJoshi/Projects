@@ -70,7 +70,7 @@ This project attempts to build AI-based chatbots to use custom data as context f
 **Main Features:**
 - Feature 1: It is straightforward to understand.
 - Feature 2: You can run these on your local machine or kaggle.
-- Feature 3: I do not have API keys for all the LLM services but I have included how you can make the Chatbot run on your local system or on Kaggle without much hassle.
+- Feature 3: I did not include API keys for all the LLM services but I have included how you can make the Chatbot run on your local system or on Kaggle without much hassle.
 - Feature 4: These models are just for simply trying out building your custom chatbots, These are command line bots and do not have an interface but they can be easily built using Streamlit which is shown in the implementation of one of the chatbots.
 
 **LLMs Used:**  

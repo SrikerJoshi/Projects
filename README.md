@@ -79,7 +79,7 @@ This project attempts to build AI-based chatbots to use custom data as context f
 - OLLAMA
   
 **Other tools:**
-- - Streamlit
+- Streamlit
 
 [📁 AI-Based LLM chatbots](https://github.com/SrikerJoshi/Projects/tree/main/AI%20based%20LLM%20Chatbots)
 

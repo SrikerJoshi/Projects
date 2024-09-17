@@ -1,6 +1,8 @@
 import os
 import google.generativeai as ai
 
+#keep this in .env file do not keep it exposed in the code.
+
 Api_key= "AIzaSyAvtNbQq7RRrbBXjvXPSj-NxLBVM39Aftc"
 
 def load_personal_info(filename):

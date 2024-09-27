@@ -38,7 +38,7 @@ while True:
         chat = model.start_chat()  # Reset the chat contex
         break
 
-    context_message = f"Here is some information about Sriker Joshi:{personal_info}\nUser's question: {message}\n\nAnswer"
+    context_message = f"Here is some information about Sriker Joshi:{personal_info}, please be a helpful chatbot to tell the user about Sriker's profile.\nUser's question: {message}\n\nAnswer"
     response = chat.send_message(context_message)
 
     if message.lower() in ['clear', 'reset']:

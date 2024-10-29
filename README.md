@@ -57,6 +57,12 @@
      
 4. An improvised mobile search engine
    
+5. Chatbots developed
+   - My resume chatbot V1 [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
+   - My resume chatbot V2 with ATS tracker [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot-v2.streamlit.app/)
+   - Recipe finder v1 ( with detailed recipes, images, and YouTube videos ) [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://all-recipe-finder-1.streamlit.app/)
+   - Recipe finder v2 ( with detailed recipes, images and YouTube videos and also address locations where you can find a particular dish near you on the maps) [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://recipe-finder-v-02.streamlit.app/)
+   
 
 ---
 

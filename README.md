@@ -136,7 +136,7 @@ This project attempts to build a spatial inverted index-based search engine for 
 - Feature 2: You can run these on your local machine or kaggle.
   
 ---
-# 📂 [Chatbots developed] <a name="Chatbots developed"></a> 
+# 📂 Chatbots developed <a name="Chatbots developed"></a> 
    - My resume chatbot V1 [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
    - My resume chatbot V2 with ATS tracker [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot-v2.streamlit.app/)
    - Recipe finder v1 ( with detailed recipes, images, and YouTube videos ) [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://all-recipe-finder-1.streamlit.app/)

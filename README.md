@@ -8,17 +8,6 @@
 - ## Want to chat with my chatbot? Click the logo [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
 - I have included the code for this particular chatbot I mentioned above right here([📁 Streamlit chatbot_code](https://github.com/SrikerJoshi/Projects/blob/main/AI%20based%20LLM%20Chatbots/streamlit_ai_chatbot.py)
 
-- ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrikerJoshi&show_icons=true&count_private=true)
-
-## Contributions
-
-- **Commits:** [![GitHub Commits](https://img.shields.io/github/commit-activity/y/SrikerJoshi/repo)](https://github.com/SrikerJoshi/repo/commits/main)
-- **Pull Requests:** [![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/SrikerJoshi/repo)](https://github.com/SrikerJoshi/repo/pulls?q=is%3Apr+is%3Aclosed)
-- **Issues Resolved:** [![GitHub Issues](https://img.shields.io/github/issues-closed/SrikerJoshi/repo)](https://github.com/SrikerJoshi/repo/issues?q=is%3Aissue+is%3Aclosed)
-
-
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>

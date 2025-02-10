@@ -1,7 +1,7 @@
 import openai
 import time
 
-openai.api_key = "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"
+openai.api_key = "put your api key here"
 
 
 def chat_with_gpt(chat_log, max_retries=3):
